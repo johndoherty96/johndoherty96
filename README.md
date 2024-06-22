@@ -7,7 +7,7 @@
 - <b>Criteria Specification and Field Calculation Script</b>
   - [Hockey Team Selection](https://github.com/johndoherty96/Hockey_Team_Selection)
 - <b>Writing Geometries to a Feature Class Using CSV Coordinates </b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/johndoherty96/Writing-Geometries-using-CSV/tree/main)
+  - [Writing Geometries using CSV](https://github.com/johndoherty96/Writing-Geometries-using-CSV/tree/main)
 - <b>Prossesing Raw Digital Elevation Models and Clipping to a User Specified Boundry</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
