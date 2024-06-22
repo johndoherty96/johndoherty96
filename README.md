@@ -3,7 +3,7 @@
 <h2>👨‍💻 GIS Python Scripting Projects:</h2>
 
 - <b>Batch Spatial Reference Reprojection Script</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Batch Reprojection](https://github.com/johndoherty96/Batch_SpatialReference/tree/main)
 - <b>Criteria Specification and Feild Calculation Script</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Writing Geometries to a Feature Class Using CSV Coordinates </b>
