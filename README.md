@@ -4,7 +4,7 @@
 
 - <b>Batch Spatial Reference Reprojection Script</b>
   - [Batch Reprojection](https://github.com/johndoherty96/Batch_SpatialReference/tree/main)
-- <b>Criteria Specification and Feild Calculation Script</b>
+- <b>Criteria Specification and Field Calculation Script</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Writing Geometries to a Feature Class Using CSV Coordinates </b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
