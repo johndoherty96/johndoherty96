@@ -5,7 +5,7 @@
 - <b>Batch Spatial Reference Reprojection Script</b>
   - [Batch Reprojection](https://github.com/johndoherty96/Batch_SpatialReference/tree/main)
 - <b>Criteria Specification and Field Calculation Script</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Hockey Team Selection](https://github.com/johndoherty96/Hockey_Team_Selection)
 - <b>Writing Geometries to a Feature Class Using CSV Coordinates </b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Prossesing Raw Digital Elevation Models and Clipping to a User Specified Boundry</b>
@@ -20,7 +20,8 @@
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2>📜 Certifications: </h2>
-- <b>Google Data Analytics Certificate</b> (https://coursera.org/share/cb00c2f1bf3558526c8c4fd3639a5676)
+
+- [Google Data Analytics Certificate](https://coursera.org/share/cb00c2f1bf3558526c8c4fd3639a5676)
 
 
 <h2> 🤳 Connect with me:</h2>
