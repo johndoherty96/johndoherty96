@@ -16,8 +16,7 @@
 - [Georeferanceing Historical Data for Charlottesville Virginia](https://github.com/johndoherty96/Historical_Georeferance/tree/main)
 - [Site Selection for Nature Conservation](https://github.com/johndoherty96/Site-Selection/tree/main)
 - [Optimizing Vineyard Locations in California Using GIS Tools](https://github.com/johndoherty96/Site_selection/tree/main)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Mapping Urban Layout and Future Development in Kalispell, Montana](https://github.com/johndoherty96/Urban_Dev/tree/main)
 
 <h2>📜 Certifications: </h2>
 
