@@ -14,7 +14,7 @@
 <h2>🌎 My Maps: </h2>
 
 - [Georeferanceing Historical Data for Charlottesville Virginia](https://github.com/johndoherty96/Historical_Georeferance/tree/main)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Site Selection for Nature Conservation](https://github.com/johndoherty96/Site-Selection/tree/main)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
